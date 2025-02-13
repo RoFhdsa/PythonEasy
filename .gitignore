@@ -4,10 +4,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 .venv
-*.docx
 # C extensions
 *.so
-
+*.txt
 # Distribution / packaging
 .Python
 build/
@@ -161,3 +160,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+/lesson_1/task/part_one_int_float/решение.txt
+/lesson_1/task/part_one_int_float/ы63.py
